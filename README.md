@@ -42,6 +42,7 @@ Implement a line-following algorithm using the calibrated sensors. The robot sho
 ### Safety and Diagnostics: 
 Ensure that all connections are secure to prevent any loose connections during operation. Include a diagnostic mode where the robot transmits its sensor readings and current state, aiding in troubleshooting and performance tuning.
 
+
 ## Schematic
 <img src="dulap_electric.png" width="200" height="300" />
 
@@ -51,3 +52,7 @@ Ensure that all connections are secure to prevent any loose connections during o
 
 ## Video
 https://youtu.be/ACiChDZWwtw
+
+<img width="350" alt="dulap_electric" src="https://github.com/MihaiC0stin/LineFollower/assets/103452863/cace066f-a920-46c0-a1ab-8024b8d49cef">
+![dulap2](https://github.com/MihaiC0stin/LineFollower/assets/103452863/c6c26ea5-42b1-41ac-836b-b8d5a9704900)
+![dulap1](https://github.com/MihaiC0stin/LineFollower/assets/103452863/8bced11d-8fd0-413b-95d4-316b461e2b13)
